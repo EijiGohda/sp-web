@@ -1,5 +1,5 @@
 public class NewBranchHello {
   public static void main(String[] args){
-    System.out.println("Hello a new Brach!");
+    System.out.println("Hello a new Branch!");
   }
 }
